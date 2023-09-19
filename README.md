@@ -2,9 +2,14 @@
 
 Decentralized media for F1 racing.
 
+<br>
+
 <p align="center">
-<img srs="./assets/icon_rounded.png" width="200" />
+<img src="./assets/icon_rounded.png" width="200" />
 </p>
+
+<br>
+
 
 > The app still development. and so feel free to use the available and ready features. At the moment of reading this, please fill any requests, issues you had...
 
@@ -19,7 +24,7 @@ Nostr is an open protocol that enables a truly censorship-resistant and global s
 Before you begin, please notice that the app is available currently on Android only, you will need basically an Android phone at least Android version (5.0.0+).
 
 #### Direct download
-You can start using Sakhir app by downloading it from [the download page](https://github.com/Sakhir-Projects/sakhir-app/releases/tag/v1).
+You can start using Sakhir app by downloading it from [the download page here](https://github.com/Sakhir-Projects/sakhir-app/releases/tag/v1).
 
 
 #### Qr Code
