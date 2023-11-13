@@ -24,7 +24,7 @@ Nostr is an open protocol that enables a truly censorship-resistant and global s
 Before you begin, please notice that the app is available currently on Android only, you will need basically an Android phone at least Android version (5.0.0+).
 
 #### Direct download
-You can start using Sakhir app by downloading it from [the download page here](https://github.com/Sakhir-Projects/sakhir-app/releases/tag/v1).
+You can start using Sakhir app by downloading it from [the download page here](https://github.com/Sakhir-Projects/sakhir-app/releases/tag/v1.8.4).
 
 
 #### Qr Code
@@ -34,5 +34,5 @@ You can also scan this QR code to open the download page automatically.
 <br>
 
 <p align="center">
-<img src="./assets/qr-code.png" width="300" />
+<img src="https://github.com/Sakhir-Projects/sakhir-app/assets/25140579/b5ad51b3-b859-4078-beba-f98b66d6c808" width="300" />
 </p>
