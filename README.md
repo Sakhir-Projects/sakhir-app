@@ -11,7 +11,7 @@ Social media banking for F1 Racing.
 <br>
 
 
-> The app is still developed. and so feel free to use the available and ready features. At the moment of reading this, please fill any requests, or issues you had...
+> The app is still being developed. and so feel free to use the available and ready features. At the moment of reading this, please fill any requests, or issues you had...
 
 
 ## Get Started
@@ -24,7 +24,8 @@ Sakhir is a social media banking app for F1 fans in Bahrain powered by Nostr - a
 - You own your data - we collect no user data and keep Big Tech out of your life!
 - Follow users with familiar Twitter UX fans have come to expect.
 - No one can manipulate posts you see or share with followers.
-- Receive Bitcoin from anyone in the world with built-in support for non-custodial Lightning Addresses. Ex: you@sakhir.me
+- Receive Bitcoin from anyone in the world with built-in support for non-custodial Lightning Addresses.
+Ex: you@sakhir.me
 
 Lightning Addresses are your gateway to perfect money - it's the easiest way to start accepting Bitcoin for payments without having to be online all the time.
 
